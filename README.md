@@ -1,1 +1,1 @@
-# fantoxel-scripts
+# fantoxel
